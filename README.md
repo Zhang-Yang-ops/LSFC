@@ -15,7 +15,7 @@ torch_scatter==2.0.6 \
 torch-sparse==0.6.10 \
 matplotlib==3.6.2 \
 networkx==2.8.8 \
-tensorboardx==2.5.1 \
+tensorboardx==2.5.1
 
 
 
